@@ -1,5 +1,5 @@
 # Capstone-Project (Credit Card Fraud Detection)
-We were given PCA transformed data so that to maintain the privacy of the customers and was asked to build a machine learning model capable of detecting fraudluent transcations
+We were given PCA transformed data of a bank credit card fraud to maintain the privacy of the customers and was asked to build a machine learning model capable of detecting fraudluent transcations
 - Checked the basic info for the data 
 - Checked wether the data is skewed or not
 - After checking we checekd the data was highly imbalanced we used to
